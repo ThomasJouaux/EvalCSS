@@ -19,7 +19,7 @@
     }
     #MentionLegales{
         background-color: black;
-         padding: 30px 20px
+        padding: 30px 20px;
     }
     #block{
         margin-left: 1500px;
@@ -29,8 +29,7 @@
         position: absolute;
         display: none;
     }
-    
-    }
+ }
     img{
         max-width: 100%;
         height: auto;
@@ -54,4 +53,9 @@
         text-align: center;
         margin-top: -30px;
         font-size: x-large;
-     }
+    }
+    #MentionLegales{
+        background-color: black;
+        padding: 30px 20px;
+    }
+    
